@@ -1,12 +1,33 @@
-# React + Vite
+# 🧠 Dashboard App — React + Vite + ShadCN UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and elegant dashboard web application built with **React**, **Vite**, **Tailwind CSS**, and **ShadCN UI**. This dashboard includes tools for article management, backlinks, support features, and more.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✍️ Create and manage articles
+- ⚙️ Configure article settings (visibility, category)
+- 📚 Auto blog integration
+- 🔗 Internal linking and free backlink tools
+- 🤝 Affiliate program module
+- 🆘 Help center and updates section
+- 💬 Live chat UI component
+- 👤 Profile management
+- 📱 Fully responsive sidebar and layout
+- 🧩 Modern UI using **ShadCN UI**
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend Framework:** [React](https://reactjs.org/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components:** [ShadCN UI](https://ui.shadcn.com/) + [Lucide Icons](https://lucide.dev/)
+- **Component State:** React Hooks (useState, useEffect)
+
+## 📦 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Saranya193/dashboard.git
+cd dashboard
+
